@@ -58,6 +58,20 @@ In this course, you will:
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+## 🧮 Scientific Calculator
+
+This repository now includes a fully-functional scientific calculator! Check out `calculator.html` to see it in action.
+
+**Features:**
+- Basic arithmetic operations (add, subtract, multiply, divide)
+- Scientific functions (sin, cos, tan, log, ln, sqrt, power, factorial)
+- Mathematical constants (π, e)
+- Degree/Radian mode for trigonometry
+- Keyboard support for faster input
+- Modern, responsive UI
+
+[View Calculator Documentation](CALCULATOR_README.md)
+
 <footer>
 
 <!--
