@@ -59,6 +59,20 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+## 🧮 Scientific Calculator
+
+This repository now includes a fully-functional scientific calculator! Check out `calculator.html` to see it in action.
+
+**Features:**
+- Basic arithmetic operations (add, subtract, multiply, divide)
+- Scientific functions (sin, cos, tan, log, ln, sqrt, power, factorial)
+- Mathematical constants (π, e)
+- Degree/Radian mode for trigonometry
+- Keyboard support for faster input
+- Modern, responsive UI
+
+[View Calculator Documentation](CALCULATOR_README.md)
+
 <footer>
 
 <!--
